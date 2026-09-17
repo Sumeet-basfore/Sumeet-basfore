@@ -45,4 +45,4 @@ part of the toolchain.
 
 ## Elsewhere
 
-[Website](#) · [LinkedIn](#) · [Email](mailto:sumeetbasfore210@gmail.com)
+[Website](#) · [LinkedIn](#https://www.linkedin.com/in/sumeet-basfore-405037399/) · [Email](mailto:sumeetbasfore210@gmail.com)
