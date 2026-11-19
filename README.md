@@ -1,31 +1,29 @@
 # Hi, I'm Sumeet 👋
 
-Software developer building **AI tools, developer infrastructure, and weird little experiments that turn into real products.**
+**Software developer building thoughtful tools for AI-assisted work and local-first computing.**
 
-I like working close to the system — from local AI and coding agents to mobile apps, hardware, and the tooling around them.
+I’m interested in how agents collaborate, how we verify what they produce, and how software can make complex work easier to understand. My projects range from working tools to early prototypes and product explorations. I like following a technical question somewhere unexpected—into a terminal, a design studio, or a music player.
 
-## What I'm building
+*Software should show its work—and leave room to play.*
 
-* **[Traject](https://github.com/Sumeet-basfore/traject)** — A local-first developer tool for understanding and diagnosing coding-agent sessions.
+## Selected work
 
-* **[promptvox](https://github.com/Sumeet-basfore/promptvox)** — A voice-to-prompt workflow for creating structured, reviewable instructions for coding agents.
+### AI and developer workflows
 
-* **[LACE](https://github.com/Sumeet-basfore/Lace)** — A local-first code editor with model-assisted edits, terminal workflows, and native system access.
+- [Traject](https://github.com/Sumeet-basfore/traject) — A local-first tool that connects coding-agent transcripts, Git changes, and test evidence to diagnose unproductive sessions.
+- [Relay](https://github.com/Sumeet-basfore/relay) — A zero-trust MCP gateway for policy-controlled tool access, short-lived credentials, and signed action receipts.
+- [Forge](https://github.com/Sumeet-basfore/forge) — A file-based toolkit of skills, rules, templates, and project context for consistent agent-assisted development.
+- [Ilvuno](https://github.com/Sumeet-basfore/ilvuno-code) *(product concept)* — Exploring how to verify that independent coding-agent changes still work together before they are integrated.
 
-* **[FrameCoach](https://github.com/Sumeet-basfore/FrameCoach)** — An offline Android camera assistant built with CameraX, MediaPipe, Kotlin, and Compose.
+### Creative tools and experiments
 
-* **[ThermalGuard](https://github.com/Sumeet-basfore/ThermalGuard)** — An ESP32-based thermal and current monitoring prototype with a web dashboard.
+- [Dylani](https://github.com/Sumeet-basfore/Dylani) *(early prototype)* — A design-aware prompt-to-UI studio with editable design tokens and React export.
+- [Sonicity](https://github.com/Sumeet-basfore/Sonicity) — An audio studio for transcription, vocal separation, and word-synced lyrics.
 
-* **[BharatQuest](https://github.com/Sumeet-basfore/BharatQuest)** — A multilingual game designed to teach people how to recognize digital-payment scams.
+## What I care about
 
-## What I'm interested in
+Local-first software · inspectable systems · careful product design · experiments with a point
 
-`AI agents` · `developer tools` · `local-first` · `LLMs` · `systems` · `product engineering`
+## Connect
 
-## Currently
-
-Building software around **AI-assisted development** and exploring what developer workflows look like when agents become a first-class part of the toolchain.
-
-## Elsewhere
-
-[Website](#) · [LinkedIn](https://www.linkedin.com/in/sumeet-basfore-405037399/) · [Email](mailto:sumeetbasfore210@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sumeet-basfore-405037399/) · [Email](mailto:sumeetbasfore210@gmail.com)
