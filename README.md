@@ -39,4 +39,4 @@
 
 ## 📫 Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/sumeet-basfore-405037399/) · [Email](mailto:sumeetbasfore210@gmail.com)
+[Portfolio](https://sumeet-portfolio-sandy.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sumeet-basfore-405037399/) · [Email](mailto:sumeetbasfore210@gmail.com)
