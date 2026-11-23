@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sumeet Basfore — building the tools I wish existed</title>
+  <desc id="desc">Minimal charcoal developer banner with editorial typography and an abstract network of connected development tools.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#303942" stroke-width="0.65" opacity="0.48"/></pattern>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151b21"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <linearGradient id="fade" x1="0" x2="1"><stop stop-color="#151b21" stop-opacity="1"/><stop offset=".85" stop-color="#151b21" stop-opacity="0"/></linearGradient>
+    <clipPath id="round"><rect width="1200" height="360" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <path d="M0 0H1200V360H0Z" fill="url(#fade)" opacity=".9"/>
+    <path d="M39 31H1161" stroke="#38414a" stroke-width="1"/>
+    <circle cx="47" cy="18" r="4" fill="#ff8f74"/>
+    <circle cx="61" cy="18" r="4" fill="#e5c07b"/>
+    <circle cx="75" cy="18" r="4" fill="#9eca91"/>
+    <text x="101" y="22" font-size="12" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" fill="#85919d" letter-spacing="1">~/sumeet / about</text>
+    <text x="59" y="102" font-size="15" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" fill="#b8c6d3" letter-spacing="2">HELLO, I'M</text>
+    <text x="54" y="181" font-size="78" font-family="Arial, Helvetica, sans-serif" font-weight="750" letter-spacing="-3.2" fill="#f4f1e9">Sumeet Basfore</text>
+    <rect x="59" y="203" width="38" height="4" rx="2" fill="#ff8f74"/>
+    <text x="111" y="214" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="500" fill="#d4ddd9">building the tools I wish existed.</text>
+    <text x="60" y="259" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#8e9ca8">agentic engineering</text>
+    <circle cx="252" cy="254" r="3" fill="#ff8f74"/>
+    <text x="270" y="259" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#8e9ca8">local-first software</text>
+    <circle cx="465" cy="254" r="3" fill="#ff8f74"/>
+    <text x="483" y="259" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#8e9ca8">open source</text>
+    <path d="M59 302H641" stroke="#38414a" stroke-width="1"/>
+    <text x="59" y="328" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing=".6" fill="#9fabb6">BUILD / BREAK / LEARN / REPEAT</text>
+    <!-- abstract dev workflow: intentionally diagrammatic rather than random decoration -->
+    <g transform="translate(742 53)">
+      <rect x="0" y="0" width="390" height="257" rx="14" fill="#121a20" stroke="#35434c"/>
+      <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1">
+        <text x="20" y="26" fill="#9caeba">WORKFLOW / 001</text>
+        <text x="345" y="26" fill="#9eca91" text-anchor="end">● ACTIVE</text>
+      </g>
+      <path d="M20 39H370" stroke="#35434c"/>
+      <path d="M110 88H184M274 88H318M230 112V158M110 192H184M274 192H318" fill="none" stroke="#768894" stroke-width="1.6" stroke-dasharray="5 5"/>
+      <path d="M178 83L184 88L178 93M312 83L318 88L312 93M225 152L230 158L235 152M178 187L184 192L178 197M312 187L318 192L312 197" fill="none" stroke="#93a3ab" stroke-width="1.6"/>
+      <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" text-anchor="middle">
+        <rect x="18" y="62" width="92" height="52" rx="8" fill="#23313a" stroke="#67808c"/><text x="64" y="93" fill="#dce7eb">idea</text>
+        <rect x="184" y="62" width="90" height="52" rx="8" fill="#314338" stroke="#9eca91"/><text x="229" y="93" fill="#d8ebd2">build</text>
+        <rect x="318" y="62" width="54" height="52" rx="8" fill="#23313a" stroke="#67808c"/><text x="345" y="93" font-size="12" fill="#dce7eb">git</text>
+        <rect x="184" y="158" width="90" height="60" rx="8" fill="#50382f" stroke="#ff8f74"/><text x="229" y="193" fill="#ffbbab">verify</text>
+        <rect x="318" y="166" width="54" height="52" rx="8" fill="#23313a" stroke="#67808c"/><text x="345" y="197" font-size="12" fill="#dce7eb">ship</text>
+        <rect x="18" y="166" width="92" height="52" rx="8" fill="#23313a" stroke="#67808c"/><text x="64" y="197" font-size="12" fill="#dce7eb">iterate</text>
+      </g>
+      <path d="M184 192H110" stroke="#ff8f74" stroke-width="1.6" stroke-dasharray="4 4"/>
+      <text x="20" y="242" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" fill="#738b98">NOT A STRAIGHT LINE, AND THAT'S FINE.</text>
+    </g>
+    <path d="M37 349H1163" stroke="#38414a" stroke-width="1"/>
+  </g>
+</svg>
